@@ -1,10 +1,10 @@
-Live preview user: https://presensi-rico.000webhostapp.com
+login
 
 User: siswa
 
 Password: siswa
 
-Live preview admin: https://presensi-rico.000webhostapp.com/admin
+Admin login (/admin)
 
 User: admin
 
